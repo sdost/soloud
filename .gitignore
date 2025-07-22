@@ -19,6 +19,7 @@ rel/*
 doc/*
 bin/audio/
 bin/
+bin-int/
 lib/*.ilk
 lib/*.lib
 lib/*.dll
